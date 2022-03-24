@@ -1,7 +1,9 @@
-function saveInput() {
+let saveInputBtn = document.getElementById("save-input-btn");
+saveInputBtn.addEventListener("click", function() {
+    alert("save input");
+});
 
-}
-
-function saveTab() {
-
-}
+let saveTabBtn = document.getElementById("save-tab-btn");
+saveTabBtn.addEventListener("click", function() {
+    alert("save tab");
+});
