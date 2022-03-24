@@ -1,0 +1,25 @@
+body {
+    background-color: wheat;
+    align-items: center;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: aqua;
+    margin-right: 20px;
+    font-weight: bold;
+    color: white;
+    font-size: 14px;
+}
+
+input {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 30px;
+    width: 300px;
+    border: none;
+    border-radius: 20px;
+}
